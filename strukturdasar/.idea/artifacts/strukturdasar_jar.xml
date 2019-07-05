@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="strukturdasar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/strukturdasar_jar</output-path>
+    <root id="archive" name="strukturdasar.jar">
+      <element id="module-output" name="strukturdasar" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang3-3.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
